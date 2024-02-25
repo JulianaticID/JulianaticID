@@ -1,4 +1,4 @@
-let swiper = new Swiper(".swiper", {
+var swiper = new Swiper(".swiper", {
   effect: "coverflow",
   grabCursor: true,
   centeredSlides: true,
