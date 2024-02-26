@@ -10,9 +10,6 @@ var swiper = new Swiper(".swiper", {
     modifier: 2,
     slideShadows: true
   },
-  keyboard: {
-    enabled: true
-  },
   mousewheel: {
     thresholdDelta: 70
   },
