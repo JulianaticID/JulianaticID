@@ -11,9 +11,8 @@ var swiper = new Swiper(".swiper", {
     slideShadows: true
   },
   mousewheel: {
-    thresholdDelta: 70
-  },
-  spaceBetween: 60,
+    thresholdDelta: 700
+  spaceBetween: 400,
   loop: true,
   pagination: {
     el: ".swiper-pagination",
