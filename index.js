@@ -7,7 +7,7 @@ var swiper = new Swiper(".swiper", {
     rotate: 600,
     stretch: 300,
     depth: 520,
-    modifier: 60,
+    modifier: 600,
     slideShadows: true
   },
   mousewheel: {
